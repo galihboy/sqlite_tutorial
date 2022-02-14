@@ -1,3 +1,7 @@
+'''
+Galih Hermawan
+https://blog.galih.eu
+'''
 import sqlite3
 
 nama_database = "mahasiswa.db"
